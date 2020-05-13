@@ -10,7 +10,7 @@ def simple_convert(csv_file, json_file, root_name):
     csv_file : str
         Filename of csv to be converted (without extension).
     json_file : str
-        Desired name for generated JSON file (without extensions).
+        Desired name for generated JSON file (without extension).
     root_name : str
         Desired name for root element grouping all entries.
         
